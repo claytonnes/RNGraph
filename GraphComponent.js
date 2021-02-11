@@ -108,7 +108,7 @@ const styles = StyleSheet.create({
     graph: {
         position: "absolute"
     },
-    valueBox: {
+    value: {
         position: "absolute"
     }
 })
